@@ -58,10 +58,10 @@ Developed an interactive dashboard that provides a centralized view of placement
 ![Dashboard Dark Mode](dashboard-dark-mode.png)
 
 ### Student Analysis
-![Student Analysis](student-analysis(dark-mode).png)
+![Student Analysis](Student-Analysis-page(dark-mode).png)
 
 ### Company Insights
-![Company Insights](company-insights(light-mode).png)
+![Company Insights](Company-insights(light-mode).png)
 
 ### Technology Skills
-![Technology Skills](technology-skills(light-mode).png)
+![Technology Skills](Tech-skills(light-mode).png)
