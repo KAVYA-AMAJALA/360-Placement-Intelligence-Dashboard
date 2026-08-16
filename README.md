@@ -48,3 +48,20 @@ Developed an interactive dashboard that provides a centralized view of placement
 - Dynamic filters and slicers for data exploration
 - Interactive visualizations and KPIs
 - Student, company, certification, and technology analysis
+
+## Dashboard Preview
+
+### Main Dashboard – Light Mode
+![Dashboard Light Mode](dashboard-light-mode.png)
+
+### Main Dashboard – Dark Mode
+![Dashboard Dark Mode](dashboard-dark-mode.png)
+
+### Student Analysis
+![Student Analysis](student-analysis.png)
+
+### Company Insights
+![Company Insights](company-insights.png)
+
+### Technology Skills
+![Technology Skills](technology-skills.png)
